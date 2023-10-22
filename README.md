@@ -5,7 +5,7 @@
 This is a simple voting website built using HTML, Bootstrap, and
 JavaScript. The website allows users to participate in polls. It’s a
 basic example that can serve as a starting point for more advanced web
-applications.
+application
 
 ## Features
 
