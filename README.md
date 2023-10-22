@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple voting website built using HTML, Bootstrap, and
+VoteVerse is a simple voting website built using HTML, Bootstrap, and
 JavaScript. The website allows users to participate in polls. It’s a
 basic example that can serve as a starting point for more advanced web
 application.
@@ -23,7 +23,7 @@ functionality and to fix errors within the code such as
 
 1. Improving the UI of the website.
 2. Connecting login and index pages.
-3. Adding images of the candidates in the candidate section carousel and aligning them.
+3. Adding images of the candidates in the candidate section carousel and aligning them, putting a logo etc.
 4. Adding more radio buttons.
 5. Fixing data management anomalies.
 
