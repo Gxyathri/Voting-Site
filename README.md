@@ -1,13 +1,13 @@
-Voting Website for college elections
+# Voting Website for college elections
 
-Introduction
+## Introduction
 
 This is a simple voting website built using HTML, Bootstrap, and
 JavaScript. The website allows users to participate in polls. It’s a
 basic example that can serve as a starting point for more advanced web
 applications.
 
-Features
+## Features
 
 1. A login page where users can login or register as a new user. 
 2. The data entered in the login page is linked to an excel sheet using
@@ -16,7 +16,7 @@ Features
    images and info about the candidates from both the panels.
 4. The home page also has a vote section in which users can cast their votes.
 
-Contributions
+## Contributions
 
 We welcome contributions to improve the UI of the website, increase
 functionality and to fix errors within the code such as
