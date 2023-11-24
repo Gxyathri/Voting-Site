@@ -1,4 +1,4 @@
-# Voting Website for college elections
+# Voting Website for college election
 
 ## Introduction
 
